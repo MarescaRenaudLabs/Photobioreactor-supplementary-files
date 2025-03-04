@@ -5,8 +5,9 @@
 This repository contains example code and data accompanying the paper: "A Low-Cost Photobioreactor for Scalable Gas Vesicle Production".
 
 The repository is divided into two sections: 
-	1. Photobioreactor microcontroller code
-	2. MATLAB app for hydrostatic collapse pressure measurements
+
+1. Photobioreactor microcontroller code
+2. MATLAB app for hydrostatic collapse pressure measurements
 
 
 ## Photobioreactor Microcontroller code
