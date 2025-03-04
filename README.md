@@ -20,9 +20,9 @@ This app has several software dependencies which are listed below.
 
 ## Software Dependencies
 
-- MATLAB: https://www.mathworks.com/products/matlab.html
-- ThorSpectra: 	https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=CCS
-- C++ compiler for MATLAB, add on: https://www.mathworks.com/matlabcentral/fileexchange/52848-matlab-support-for-mingw-w64-c-c-fortran-compiler
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [ThorSpectra](https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=CCS)
+- [C++ compiler for MATLAB, add on](https://www.mathworks.com/matlabcentral/fileexchange/52848-matlab-support-for-mingw-w64-c-c-fortran-compiler)
 - Driver for your specific Serial-to-USB adaptor. Recommended Chipset PL2303 or FTDI chips (FTDI preferred if using more than one Serial-to-USB adaptors)
 
 ## Installation Instructions
